@@ -1,6 +1,6 @@
-![GitHub Cards Preview](https://github.com/MustafaSabahy/Tiktok-iOS/blob/main/cover.png?raw=true)
 
-# Tiktok
+
+# Todor
 A Simple to-do list from scratch using SwiftUI with a MVVM architecture pattern 📱,
 also incorporate UserDefaults into the application to save and persist data between sessions.
 *Made with love ❤️ by [Mustafa Sabahy](https://github.com/mustafasabahy)*
