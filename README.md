@@ -26,7 +26,7 @@ Launch Screen | Home | Create Task | Edit
 ## Dark Mode 🌚
 Launch Screen | Home | Create Task | Edit 
 --- | --- | --- |---
-![](https://github.com/MustafaSabahy/todor/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-07-28%20at%2020.12.58.png) |![](https://github.com/MustafaSabahy/todor/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-07-28%20at%2020.22.02.png) |![](https://github.com/MustafaSabahy/todor/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-07-28%20at%2020.22.09.png) |![](https://github.com/MustafaSabahy/todor/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-07-28%20at%2020.22.02.png)
+![](https://github.com/MustafaSabahy/todor/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-07-28%20at%2020.12.58.png) |![](https://github.com/MustafaSabahy/todor/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-07-28%20at%2020.22.22.png) |![](https://github.com/MustafaSabahy/todor/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-07-28%20at%2020.22.09.png) |![](https://github.com/MustafaSabahy/todor/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-07-28%20at%2020.22.02.png)
 
 <br />
 
