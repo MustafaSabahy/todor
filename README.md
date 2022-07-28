@@ -19,19 +19,14 @@ The ViewModel contains the business logic for the app, connecting the View to th
 ## Light Mode 🌞
 Launch Screen | Home | Create Task | Edit 
 --- | --- | --- |---
-![](https://github.com/MustafaSabahy/todor/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-07-28%20at%2020.12.58.png) |![](https://github.com/MustafaSabahy/todor/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-07-28%20at%2020.13.03.png) | 
-![](https://github.com/MustafaSabahy/todor/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-07-28%20at%2020.13.09.png) | 
-![](https://github.com/MustafaSabahy/todor/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-07-28%20at%2020.14.27.png) 
+![](https://github.com/MustafaSabahy/todor/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-07-28%20at%2020.12.58.png) |![](https://github.com/MustafaSabahy/todor/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-07-28%20at%2020.13.03.png) |![](https://github.com/MustafaSabahy/todor/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-07-28%20at%2020.13.09.png) |![](https://github.com/MustafaSabahy/todor/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-07-28%20at%2020.14.27.png) 
 
 <br />
 
 ## Dark Mode 🌚
 Launch Screen | Home | Create Task | Edit 
 --- | --- | --- |---
-![](https://github.com/MustafaSabahy/todor/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-07-28%20at%2020.12.58.png) |
-![](https://github.com/MustafaSabahy/todor/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-07-28%20at%2020.22.02.png) | 
-![](https://github.com/MustafaSabahy/todor/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-07-28%20at%2020.22.09.png) | 
-![](https://github.com/MustafaSabahy/todor/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-07-28%20at%2020.22.02.png)
+![](https://github.com/MustafaSabahy/todor/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-07-28%20at%2020.12.58.png) |![](https://github.com/MustafaSabahy/todor/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-07-28%20at%2020.22.02.png) |![](https://github.com/MustafaSabahy/todor/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-07-28%20at%2020.22.09.png) |![](https://github.com/MustafaSabahy/todor/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202022-07-28%20at%2020.22.02.png)
 
 <br />
 
