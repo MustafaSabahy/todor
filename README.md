@@ -1,4 +1,5 @@
 
+![GitHub Cards Preview]([https://github.com/MustafaSabahy/Tiktok-iOS/blob/main/cover.png](https://github.com/MustafaSabahy/todor/blob/main/COVER.png)?raw=true)
 
 # Todor
 A Simple to-do list from scratch using SwiftUI with a MVVM architecture pattern 📱,
