@@ -5,6 +5,7 @@ A Simple to-do list from scratch using SwiftUI with a MVVM architecture pattern 
 also incorporate UserDefaults into the application to save and persist data between sessions.
 *Made with love ❤️ by [Mustafa Sabahy](https://github.com/mustafasabahy)*
 
+<br />
 
 ## Built With 🛠
 MVVM stands for Model-View-ViewModel...
@@ -39,6 +40,7 @@ Launch Screen | Home | Create Task | Edit
 If you want to contribute to this app, you're always welcome!
 See [Contributing Guidelines](https://github.com/MustafaSabahy/Tiktok-iOS/blob/main/CONTRIBUTION.md). 
 
+<br />
 
 
 ## License
